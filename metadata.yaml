@@ -1,5 +1,8 @@
 _repo: Vandormadar-Regeny_62588
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62588-h/images/cover.jpg
 creator:
   author:
     agent_name: Lovik, Károly
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51788
     wikipedia: https://hu.wikipedia.org/wiki/Lovik_K%C3%A1roly_(%C3%ADr%C3%B3)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62588#Vandormadar-Regeny
 gutenberg_issued: '2020-07-08'
 gutenberg_type: Text
 identifiers:
